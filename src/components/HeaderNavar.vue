@@ -10,7 +10,7 @@
                     </li>
                     <li>
                         <a style="color: white;">
-                         Adrian stefan  <i class="fas fa-sign-out-alt "></i>
+                         Adrian stefan s  <i class="fas fa-sign-out-alt "></i>
                         </a>
                     </li>
                 </ul> 
