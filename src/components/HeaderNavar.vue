@@ -5,7 +5,7 @@
                 <ul id="lista1">
                     <li>
                         <a style="color: white;">
-                           <i class="fa-solid fa-magnifying-glass mr-5"></i>
+                           <i class="fa-solid fa-magnifying-glass mr-4"></i>
                         </a>
                     </li>
                     <li>
